@@ -1,0 +1,2 @@
+input_img,output,flag,username,timestamp
+"{""path"":""flagged\\input_img\\6787962d400ccfbd5d89\\avocado.jpg"",""url"":""https://4d65-152-204-245-176.ngrok-free.app/file=C:\\Users\\William Bonilla\\AppData\\Local\\Temp\\gradio\\f5938f70032e79f94b5a9533141461ba4a2ef4ef\\avocado.jpg"",""size"":6302,""orig_name"":""avocado.jpg"",""mime_type"":""""}","{""path"":""flagged\\output\\c1b7345bba28e23709a5\\output_image.png"",""url"":null,""size"":null,""orig_name"":""output_image.png"",""mime_type"":null}",,,2023-11-23 08:50:08.245836
